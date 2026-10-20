@@ -9,7 +9,7 @@ Nosso objetivo é reconstruir o código original do jogo em linguagem C, permiti
 | Recurso | Link |
 |---|---|
 | 🛠️ Ferramenta decomp.wtf | [GitHub — decomp.wtf](https://github.com/i12bp8/decomp.wtf) |
-| 🥤 Projeto Pepsiman | [Entrar no projeto](https://tremendous-published-webmasters-jar.trycloudflare.com/join/open#room=slps-01762) |
+| 🥤 Projeto Pepsiman | [Entrar no projeto](https://bottom-vacancies-louis-losses.trycloudflare.com/join/open#room=slps-01762) |
 
 **Identificação da sala:** `slps-01762`
 
@@ -29,7 +29,7 @@ Consulte o README da ferramenta para conhecer seus requisitos, instruções de i
 
 Clique no link de convite:
 
-**[🥤 PARTICIPAR DA DECOMPILAÇÃO DO PEPSIMAN](https://tremendous-published-webmasters-jar.trycloudflare.com/join/open#room=slps-01762)**
+**[🥤 PARTICIPAR DA DECOMPILAÇÃO DO PEPSIMAN](https://bottom-vacancies-louis-losses.trycloudflare.com/join/open#room=slps-01762)**
 
 Abra a sala compartilhada `slps-01762` na plataforma.
 
@@ -98,7 +98,7 @@ O progresso pode ser acompanhado diretamente na sala do Pepsiman no decomp.wtf.
 
 A plataforma apresenta informações como quantidade de funções, matches concluídos e tentativas de compilação.
 
-**[📈 Acompanhar progresso e contribuir](https://tremendous-published-webmasters-jar.trycloudflare.com/join/open#room=slps-01762)**
+**[📈 Acompanhar progresso e contribuir](https://bottom-vacancies-louis-losses.trycloudflare.com/join/open#room=slps-01762)**
 
 > O link de convite utiliza um túnel Cloudflare temporário. Ele pode mudar ou ficar indisponível caso o servidor seja reiniciado. Se isso acontecer, solicite o endereço atualizado ao responsável pelo projeto.
 
@@ -118,7 +118,7 @@ Se você gosta de PlayStation 1, programação em C, assembly MIPS ou engenharia
 
 **Cada função reconstruída nos aproxima de compreender o código original do Pepsiman.**
 
-### 🥤 [ENTRAR NO PROJETO PEPSIMAN](https://tremendous-published-webmasters-jar.trycloudflare.com/join/open#room=slps-01762)
+### 🥤 [ENTRAR NO PROJETO PEPSIMAN](https://bottom-vacancies-louis-losses.trycloudflare.com/join/open#room=slps-01762)
 
 ---
 
